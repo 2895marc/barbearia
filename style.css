@@ -1,0 +1,10 @@
+header{
+    background-color: red;
+}
+nav li{
+    display: inline;
+}
+nav li{
+    text-transform: uppercase;
+    color: black;
+}
